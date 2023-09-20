@@ -21,7 +21,7 @@ const CARDS = [
   },
   {
     name: "Wanderers' Library",
-    icon: "ri-gir-repository-line",
+    icon: "ri-git-repository-line",
     link: "https://wanderers-library.wikidot.com/",
   },
   {
