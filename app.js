@@ -9,41 +9,41 @@ const NAME = "Jack";
 const CARDS = [
   {
     name: "SCiPNet",
-    icon: "",
+    icon: "ri-terminal-box-line",
     link: "https://scipnet-react.web.app",
     color: "#5865F2",
   },
   {
     name: "SCP Wiki",
-    icon: "",
+    icon: "ri-edit-cirlce-line",
     link: "https://scp-wiki.wikidot.com/",
     color: "#FF4500",
   },
   {
     name: "Wanderers' Library",
-    icon: "",
+    icon: "ri-gir-repository-line",
     link: "https://wanderers-library.wikidot.com/",
   },
   {
     name: "RPC Authority",
-    icon: "",
+    icon: "ri-instance-line",
     link: "http://rpcauthority.wikidot.com/",
   },
   {
     name: "The Backrooms",
-    icon: "",
+    icon: "ri-door-open-line",
     link: "http://backrooms-wiki.wikidot.com",
     color: "#1DA1F2",
   },
   {
     name: "Obsidian Iceberg",
-    icon: "",
+    icon: "ri-database-line",
     link: "https://www.eleanorkonik.com/",
     color: "#ea4c89",
   },
   {
     name: "Monkeytype",
-    icon: "",
+    icon: "ri-keyboard-box-line",
     link: "https://monkeytype.com/",
   },
   {
