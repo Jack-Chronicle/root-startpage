@@ -14,7 +14,7 @@ const CARDS = [
   },
   {
     name: "SCP Wiki",
-    icon: "ri-edit-circle-line",
+    icon: "ri-circle-line",
     link: "https://scp-wiki.wikidot.com/",
   },
   {
