@@ -11,13 +11,11 @@ const CARDS = [
     name: "SCiPNet",
     icon: "ri-terminal-box-line",
     link: "https://scipnet-react.web.app",
-    color: "#5865F2",
   },
   {
     name: "SCP Wiki",
     icon: "ri-edit-circle-line",
     link: "https://scp-wiki.wikidot.com/",
-    color: "#FF4500",
   },
   {
     name: "Wanderers' Library",
@@ -33,13 +31,11 @@ const CARDS = [
     name: "The Backrooms",
     icon: "ri-door-open-line",
     link: "http://backrooms-wiki.wikidot.com",
-    color: "#1DA1F2",
   },
   {
     name: "Obsidian Iceberg",
     icon: "ri-database-line",
     link: "https://www.eleanorkonik.com/",
-    color: "#ea4c89",
   },
   {
     name: "Monkeytype",
@@ -50,7 +46,6 @@ const CARDS = [
     name: "YouTube",
     icon: "ri-youtube-fill",
     link: "https://www.youtube.com/",
-    color: "#FF0000",
   },
 ];
 
