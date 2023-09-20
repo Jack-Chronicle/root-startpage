@@ -4,68 +4,53 @@
 
 /* -------------------------------------------------------- */
 
-const NAME = "Reyes";
+const NAME = "Jack";
 
 const CARDS = [
   {
-    name: "Discord",
-    icon: "ri-discord-fill",
-    link: "https://discord.com/app",
+    name: "SCiPNet",
+    icon: "",
+    link: "https://scipnet-react.web.app",
     color: "#5865F2",
   },
   {
-    name: "Reddit",
-    icon: "ri-reddit-fill",
-    link: "https://www.reddit.com/",
+    name: "SCP Wiki",
+    icon: "",
+    link: "https://scp-wiki.wikidot.com/",
     color: "#FF4500",
   },
   {
-    name: "Figma",
-    icon: "ri-pen-nib-fill",
-    link: "https://www.figma.com/",
+    name: "Wanderers' Library",
+    icon: "",
+    link: "https://wanderers-library.wikidot.com/",
   },
   {
-    name: "Github",
-    icon: "ri-github-fill",
-    link: "https://github.com/",
+    name: "RPC Authority",
+    icon: "",
+    link: "http://rpcauthority.wikidot.com/",
   },
   {
-    name: "Twitter",
-    icon: "ri-twitter-fill",
-    link: "https://twitter.com",
+    name: "The Backrooms",
+    icon: "",
+    link: "http://backrooms-wiki.wikidot.com",
     color: "#1DA1F2",
   },
   {
-    name: "Dribbble",
-    icon: "ri-dribbble-fill",
-    link: "https://dribbble.com/",
+    name: "Obsidian Iceberg",
+    icon: "",
+    link: "https://www.eleanorkonik.com/",
     color: "#ea4c89",
   },
   {
-    name: "Hashnode",
-    icon: "ri-newspaper-line",
-    link: "https://hashnode.com/",
-  },
-  {
-    name: "CodeSandbox",
-    icon: "ri-braces-fill",
-    link: "https://codesandbox.io/dashboard/",
+    name: "Monkeytype",
+    icon: "",
+    link: "https://monkeytype.com/",
   },
   {
     name: "YouTube",
     icon: "ri-youtube-fill",
     link: "https://www.youtube.com/",
     color: "#FF0000",
-  },
-  {
-    name: "LinkedIn",
-    icon: "ri-linkedin-fill",
-    link: "https://www.linkedin.com/",
-  },
-  {
-    name: "Gmail",
-    icon: "ri-google-fill",
-    link: "https://mail.google.com/",
   },
 ];
 
