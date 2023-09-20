@@ -14,7 +14,7 @@ const CARDS = [
   },
   {
     name: "SCP Wiki",
-    icon: "ri-circle-line",
+    icon: "ri-circle-fill",
     link: "https://scp-wiki.wikidot.com/",
   },
   {
@@ -24,7 +24,7 @@ const CARDS = [
   },
   {
     name: "RPC Authority",
-    icon: "ri-instance-line",
+    icon: "ri-instance-fill",
     link: "http://rpcauthority.wikidot.com/",
   },
   {
